@@ -1,0 +1,23 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Node
+node_modules/
+
+# macOS
+.DS_Store
+._*
+.Spotlight-V100
+.Trashes
+.fseventsd
+
+# Local editor / preview config
+.claude/
+
+# Duplicate preview entrypoint (identical to turtle_storymap.html)
+index.html
+
+# Unrelated scout report (different research topic)
+dataset-scout-report-*.md

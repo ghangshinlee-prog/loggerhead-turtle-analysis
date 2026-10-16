@@ -1,0 +1,45 @@
+{
+  "n_raw_fixes": 24081,
+  "n_after_drop_argosZ": 18061,
+  "n_after_drop_onland": 17409,
+  "n_after_speedfilter": 13522,
+  "pct_retained": 56.2,
+  "n_individuals": 43,
+  "date_start": "2016-06-16",
+  "date_end": "2019-01-15",
+  "n_countries_eez_total": 10,
+  "countries_eez_total": [
+    "Algeria",
+    "France",
+    "Greece",
+    "Italy",
+    "Libya",
+    "Malta",
+    "Morocco",
+    "Spain",
+    "Tunisia",
+    "Turkey"
+  ],
+  "n_individuals_using_high_seas": 0,
+  "pct_fixes_high_seas": 0.0,
+  "top5_eez_by_fixes": {
+    "Spain": 6290,
+    "Algeria": 2804,
+    "Italy": 1426,
+    "Tunisia": 911,
+    "Libya": 557,
+    "Greece": 438
+  },
+  "median_countries_per_individual": 3.0,
+  "max_countries_one_individual": 8,
+  "median_path_km": 2826.5,
+  "max_path_km": 16657.8,
+  "sst_pct_in_18_26C": 97.8,
+  "sst_median": 19.7,
+  "top_hotspot_cell": {
+    "glat": 37.5,
+    "glon": -0.75,
+    "n_fixes": 95,
+    "n_ind": 11
+  }
+}
